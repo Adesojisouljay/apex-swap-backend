@@ -1,0 +1,24 @@
+{
+  "name": "apex-swap-server",
+  "version": "1.0.0",
+  "description": "Easily swap hive and hbd to usdt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adesojisouljay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.2",
+    "nodemailer": "^6.9.5",
+    "shortid": "^2.2.16",
+    "tronweb": "^5.3.0"
+  }
+}
